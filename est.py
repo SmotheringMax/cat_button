@@ -33,7 +33,7 @@ while not done:
             self.hi_tot.pack(side="right")
 
             self.hi_rr = tk.Button(self)
-            self.hi_rr["text"] = "Mamky\n(ebal)"
+            self.hi_rr["text"] = "Mamky\n(kopal)"
             self.hi_rr.pack(side="right")
 
             self.quit = tk.Button(self, text="QUIT", fg="red",
