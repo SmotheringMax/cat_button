@@ -29,7 +29,7 @@ while not done:
 
 
             self.hi_tot = tk.Button(self)
-            self.hi_tot["text"] = "Ololo\n(kyrka)"
+            self.hi_tot["text"] = "Ololo\n(murka)"
             self.hi_tot.pack(side="right")
 
             self.hi_rr = tk.Button(self)
